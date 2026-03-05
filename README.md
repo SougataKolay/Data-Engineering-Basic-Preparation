@@ -11,9 +11,14 @@ It is mainly intended for **revision of core ideas**, not advanced implementatio
 
 ## Topics
 
-* Python
-* SQL
-* PySpark
+* Python basics
+* Pandas
+* SQL fundamentals
+* Advanced SQL
+* Spark
+* ETL pipelines
+* Airflow
+* Cloud data warehouses
 
 ## Structure
 
