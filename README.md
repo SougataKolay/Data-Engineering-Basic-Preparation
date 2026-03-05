@@ -17,15 +17,18 @@ It is mainly intended for **revision of core ideas**, not advanced implementatio
 
 ## Structure
 
-```
-.
-├── python/
-├── sql/
-└── pyspark/
-```
+## Structure
 
-Each directory contains small examples and notes related to the topic.
-
+```
+├── Python Coding Prep/
+│   └── basic python practice scripts
+│
+├── PySpark Prep/
+│   └── notebooks and small datasets for practice
+│
+└── SQL Prep/
+    └── (to be added)
+```
 
 ## Purpose
 
