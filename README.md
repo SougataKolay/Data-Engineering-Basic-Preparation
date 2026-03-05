@@ -20,7 +20,6 @@ It is mainly intended for **revision of core ideas**, not advanced implementatio
 * Airflow
 * Cloud data warehouses
 
-## Structure
 
 ## Structure
 
