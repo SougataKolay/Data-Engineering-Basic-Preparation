@@ -370,11 +370,7 @@
 
 
 
-#28. Rewrite this loop using list comprehension.
-
-
-
-#29. print duplicate no and how many duplicates are there
+#28. print duplicate no and how many duplicates are there
 # list1=[1,1,3,2,1,4,2]
 # seen=set()
 # dup=[]
